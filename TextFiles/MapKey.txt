@@ -1,0 +1,18 @@
+f Images/flame1.png
+- Images/platformSingle.png
+| Images/platformVert.png
++ crossPlatform
+t floorT
+p playerstart
+o player2start
+c Images/checkpoint.png
+* empty
+V Images/spikesHang.png
+^ Images/spikes.png
+s Images/saw1.png
+] Images/platformRight.png
+= Images/platformMiddle.png
+[ Images/platformLeft.png
+T Images/Turret.png
+F FinishPoint
+E
